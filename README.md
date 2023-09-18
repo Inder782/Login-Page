@@ -1,7 +1,8 @@
 Preview here of the Login Page v1.0
 
+![preview](https://github.com/Inder782/Login-Page/assets/124162738/efdb9702-047b-4a4a-8d50-93391379496e)
 
-# Rea![Uploading preview.png…]()
+
 ct + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
